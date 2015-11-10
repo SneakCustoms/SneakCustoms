@@ -48,7 +48,7 @@ Everytime you change a skin the script will look up if its an custom skin or an 
 When its standard it will just update the texture and the skinclass in the database.
 When you apply a new custom skin it will add an entry to the sneak_customs database.
 On server start the fn_Sneak_postInit.sqf will compare every spawned vehicle with my custom
-database and update the skin to make custom skins persistent.
+database and update the skin to make custom skins persistent. When you revert back to a standard skin the entry in the custom databse will be deleted and value is stored in the standard database.
 
 
 
