@@ -1,3 +1,6 @@
+Screenshots:
+http://imgur.com/a/AgsuB
+
 I expect everyone to know how to handle pbo's and getting scripts on your server so i wont explain this.
 
 Installation:
